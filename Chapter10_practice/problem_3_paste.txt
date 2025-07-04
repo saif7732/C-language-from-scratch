@@ -1,0 +1,5 @@
+Hello my name is saif
+
+i'm a undergrad student at Leading University
+
+Currently learning C from scratch      

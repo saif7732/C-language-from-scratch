@@ -1,0 +1,14 @@
+{
+	"C boilerplate": {
+		"prefix": "c boiler",
+		"body": [
+			"#include <stdio.h>\n",
+			"int main(){\n", 
+			"\t$1\n", 
+			"\treturn 0;",
+			"}"
+			
+		],
+		"description": "The C language boilerplate"
+	}
+}
